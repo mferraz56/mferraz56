@@ -1,12 +1,14 @@
 # mente meio maquina. mind half machine. разум полумашина.
 
-![Signal](https://img.shields.io/badge/signal-127a46?style=for-the-badge)
-![Noise](https://img.shields.io/badge/noise-97233f?style=for-the-badge)
-![Harness](https://img.shields.io/badge/harness-pragmatic-0f3d2e?style=for-the-badge)
+
+> mente meio maquina. mind half machine. разум полумашина.
+
+![Signal](https://img.shields.io/badge/signal-30C67C?style=for-the-badge&labelColor=0D1210)
+![Noise](https://img.shields.io/badge/noise-D85A63?style=for-the-badge&labelColor=0D1210)
+![Harness](https://img.shields.io/badge/harness-pragmatic-202823?style=for-the-badge&labelColor=0D1210)
 
 
-
-Mind Half Machine e um laboratorio pessoal de construcao tecnica, narrativa e organizacao pragmatica. Ele nasce de um conjunto de trabalhos, estudos e frentes nao publicas representadas aqui por categorias: software, medicao inteligente, firmware, automacao, documentacao tecnica, IA aplicada, produto e pesquisa. O que entra aqui precisa conseguir ser explicado, validado e reaproveitado.
+Mind Half Machine e um laboratorio pessoal de construcao tecnica, narrativa e organizacao pragmatica. Ele nasce de um conjunto de trabalhos e estudos representados aqui por categorias: software, medicao inteligente, firmware, automacao, documentacao tecnica, IA aplicada, produto e pesquisa. O que entra aqui precisa conseguir ser explicado, validado e reaproveitado.
 
 ## O que e
 
@@ -86,6 +88,15 @@ A linguagem visual parte de uma dualidade simples:
 - vermelho para corrupcao de sistema, alerta, ruido e custo
 
 O referencial cyberpunk entra como tensao e atmosfera, nao como excesso. A marca procura o ponto em que o sistema continua legivel mesmo quando a friccao aparece.
+
+## Branding v1
+
+A v1 da marca consolida a identidade em quatro pecas praticas:
+
+- [MHM-BRANDING/brand-kit.md](MHM-BRANDING/brand-kit.md) para essencia, promessa, statements e limites
+- [MHM-BRANDING/tokens-design.md](MHM-BRANDING/tokens-design.md) para cores, contraste e aplicacao visual
+- [MHM-BRANDING/mensagens-github.md](MHM-BRANDING/mensagens-github.md) para bios, taglines e descricoes publicas
+- [MHM-BRANDING/assets-visuais-spec.md](MHM-BRANDING/assets-visuais-spec.md) para banners, badges, social cards e avatar
 
 ## Limites publicos
 
