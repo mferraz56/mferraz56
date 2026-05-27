@@ -89,15 +89,6 @@ A linguagem visual parte de uma dualidade simples:
 
 O referencial cyberpunk entra como tensao e atmosfera, nao como excesso. A marca procura o ponto em que o sistema continua legivel mesmo quando a friccao aparece.
 
-## Branding v1
-
-A v1 da marca consolida a identidade em quatro pecas praticas:
-
-- [MHM-BRANDING/brand-kit.md](MHM-BRANDING/brand-kit.md) para essencia, promessa, statements e limites
-- [MHM-BRANDING/tokens-design.md](MHM-BRANDING/tokens-design.md) para cores, contraste e aplicacao visual
-- [MHM-BRANDING/mensagens-github.md](MHM-BRANDING/mensagens-github.md) para bios, taglines e descricoes publicas
-- [MHM-BRANDING/assets-visuais-spec.md](MHM-BRANDING/assets-visuais-spec.md) para banners, badges, social cards e avatar
-
 ## Limites publicos
 
 Este repositorio apresenta um recorte publico da estrutura, da linguagem e do metodo. Quando um detalhe nao melhora a compreensao, a preferencia e falar por categoria de trabalho em vez de expor nomes, contextos ou operacoes sem necessidade.
