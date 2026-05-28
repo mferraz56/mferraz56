@@ -1,94 +1,94 @@
 # mente meio maquina. mind half machine. разум полумашина.
 
-
 > mente meio maquina. mind half machine. разум полумашина.
 
-![Signal](https://img.shields.io/badge/signal-30C67C?style=for-the-badge&labelColor=0D1210)
-![Noise](https://img.shields.io/badge/noise-D85A63?style=for-the-badge&labelColor=0D1210)
-![Harness](https://img.shields.io/badge/harness-pragmatic-202823?style=for-the-badge&labelColor=0D1210)
+![Signal](https://img.shields.io/badge/sinal-30C67C?style=for-the-badge&labelColor=0D1210)
+![Noise](https://img.shields.io/badge/ruido-D85A63?style=for-the-badge&labelColor=0D1210)
+![Acorrentamento](https://img.shields.io/badge/acorrentamento-pragmatico-202823?style=for-the-badge&labelColor=0D1210)
 
+Mind Half Machine é um laboratório pessoal de construção técnica, narrativa e organização pragmática. O repositório existe para observar um padrão recorrente: quando software, infraestrutura, documentação e inteligência artificial são tratados como peças isoladas, a fricção operacional cresce em silêncio. Quando essas camadas são acorrentadas por contexto, validação e autoria, a execução ganha forma.
 
-Mind Half Machine e um laboratorio pessoal de construcao tecnica, narrativa e organizacao pragmatica. Ele nasce de um conjunto de trabalhos e estudos representados aqui por categorias: software, medicao inteligente, firmware, automacao, documentacao tecnica, IA aplicada, produto e pesquisa. O que entra aqui precisa conseguir ser explicado, validado e reaproveitado.
+## O que é
 
-## O que e
+Aqui convivem projetos públicos, estudos, ferramentas de trabalho e linhas de construção em diferentes níveis de abertura. O objetivo não é enumerar volume. É tornar visível o mecanismo que se repete: pegar uma área confusa, reduzir a entropia inicial e montar um sistema pequeno o bastante para ser executado, testado, explicado e reaproveitado.
 
-Aqui convivem projetos publicos, estudos, ferramentas de trabalho e linhas de construcao em diferentes niveis de abertura. O objetivo nao e listar tudo; e mostrar o tipo de construcao que se repete e como essas frentes se conectam.
+## Acorrentamento central
 
-## Harness central
+O acorrentamento de IA é a estrutura operacional do projeto. Ele prende instruções, agentes, prompts, checklists, checagens rápidas e memória de trabalho em uma mesma cadeia de execução. A função não é automatizar por impulso; é reduzir perda de contexto, latência decisional e improviso repetido quando o trabalho muda de domínio.
 
-O harness de IA e a espinha dorsal do projeto. Em termos simples, ele e o sistema de trabalho que organiza instrucoes, agentes, prompts, checklists e checagens rapidas para que a execucao continue pragmatica mesmo quando o trabalho muda de dominio.
-
-Em vez de depender de memoria informal, o harness tenta capturar:
+Em vez de depender de memória informal, o acorrentamento captura:
 
 - contexto suficiente para cada tarefa
-- preferencia por fatias pequenas e verificaveis
-- pontos de controle antes de mudancas de maior risco
-- evidencias de checagem rapida antes de considerar um slice como concluido
-- documentacao curta, util e rastreavel
+- preferência por fatias pequenas e verificáveis
+- pontos de controle antes de mudanças de maior risco
+- evidências de checagem rápida antes de considerar um ciclo concluído
+- documentação curta, útil e rastreável
+- critérios para separar construção real de ruído operacional
 
-Na pratica, isso cria uma base reutilizavel para software, firmware, documentacao, pesquisa e criacao assistida por IA sem perder o senso de autoria humana.
+Na prática, isso cria uma base reutilizável para software, firmware, documentação, pesquisa e criação assistida por IA sem deslocar a responsabilidade humana para a ferramenta. A inteligência entra como ampliação de critério; o acorrentamento preserva continuidade, observabilidade e decisão.
 
-## Frentes de construcao
+## Frentes de construção
 
-### Medicao inteligente, IoT e energia
+### Medição inteligente, IoT e energia
 
-Firmware, gateways e servicos para leitura, decodificacao e publicacao de dados de medicao. Essa frente passa por ESP32, MQTT, Modbus, protocolos de medicao, conectividade embarcada e dashboards tecnicos.
+Firmware, gateways e serviços para leitura, decodificação e publicação de dados de medição. Essa frente passa por ESP32, MQTT, Modbus, protocolos de medição, conectividade embarcada e dashboards técnicos. O interesse central está na passagem entre dispositivo, rede, dado e decisão.
 
-### Plataformas web e operacoes
+### Plataformas web e operações
 
-Aplicacoes em Python para transformar processos em sistemas utilizaveis: FastAPI, Jinja2 SSR, Flask, Docker Compose, Redis, Celery, PostgreSQL, dashboards, rotinas administrativas e sistemas de suporte.
+Aplicações em Python para transformar processos em sistemas utilizáveis: FastAPI, Jinja2 SSR, Flask, Docker Compose, Redis, Celery, PostgreSQL, dashboards, rotinas administrativas e sistemas de suporte. O foco é converter fluxo manual em interface, persistência, fila, observabilidade e operação.
 
-### Automacao, IA e agentes
+### Automação, IA e agentes
 
-Bots, agentes, visualizadores de telemetria, assistentes operacionais, processamento de video, imagem, voz e texto. O interesse principal nao e apenas chamar uma IA, mas criar fluxo, criterio, memoria de trabalho e validacao.
+Bots, agentes, visualizadores de telemetria, assistentes operacionais, processamento de vídeo, imagem, voz e texto. O ponto não é apenas chamar um modelo. É construir encadeamento, critério, memória de trabalho e validação para que a IA opere dentro de uma arquitetura, não como evento solto.
 
-### Documentacao tecnica programatica
+### Documentação técnica programática
 
-Geradores de datasheets, templates public-safe, PDFs com ReportLab, conteudo estruturado em JSON e documentacao tecnica reutilizavel. Essa frente aparece como ponte entre engenharia, produto e comunicacao clara.
+Geradores de datasheets, templates public-safe, PDFs com ReportLab, conteúdo estruturado em JSON e documentação técnica reutilizável. Essa frente aparece como ponte entre engenharia, produto e comunicação clara: documento deixa de ser resíduo e passa a ser interface de sistema.
 
-### Infraestrutura, laboratorio e hardware
+### Infraestrutura, laboratório e hardware
 
-Experimentos com single-board computers, bootloaders, portas seriais virtuais, brokers MQTT, Linux em microcontroladores e validacoes locais antes de teste em campo. E a camada onde sistema encontra dispositivo, rede e restricao fisica.
+Experimentos com single-board computers, bootloaders, portas seriais virtuais, brokers MQTT, Linux em microcontroladores e validações locais antes de teste em campo. É a camada onde sistema encontra dispositivo, rede, restrição física e falha silenciosa.
 
-### Pesquisa, visualizacao e formacao
+### Pesquisa, visualização e formação
 
-Estudos sobre energia, analise solar, visualizacao da informacao, principios de Gestalt, pesquisa de mercado e materiais academicos. Parte desse material alimenta o repertorio tecnico; parte permanece como estudo em andamento.
+Estudos sobre energia, análise solar, visualização da informação, princípios de Gestalt, pesquisa de mercado e materiais acadêmicos. Parte desse material alimenta repertório técnico; parte permanece como investigação em andamento. Conhecimento só ganha peso quando encontra mecanismo de aplicação.
 
 ### Narrativa, marca e produtos experimentais
 
-Livro, cartas, fluxos de branding e experimentos criativos que investigam identidade, autonomia, tecnologia e linguagem. Essa frente conecta a parte humana da marca com o mecanismo operacional do harness.
+Livro, cartas, fluxos de branding e experimentos criativos que investigam identidade, autonomia, tecnologia e linguagem. Essa frente conecta a parte humana da marca ao acorrentamento operacional: voz, decisão, estética e sistema deixam de competir e passam a se reforçar.
 
-## Padrao que se repete
+## Padrão que se repete
 
-Olhando o conjunto desses trabalhos, o padrao nao e uma tecnologia isolada. E a tentativa recorrente de pegar uma area confusa e montar um sistema pequeno o bastante para ser executado, testado e melhorado.
+O padrão não é uma tecnologia isolada. É a tentativa recorrente de detectar fricção, modelar dependências invisíveis e construir uma cadeia mínima de execução. Sistemas frágeis raramente falham de uma vez; primeiro acumulam pontos cegos.
 
-Isso aparece de varias formas:
+Isso aparece de várias formas:
 
 - protocolo vira decoder
 - rotina vira dashboard
 - ideia vira MVP
 - documento vira gerador
-- teste de bancada vira harness
-- narrativa vira sistema de voz e decisao
+- teste de bancada vira acorrentamento de validação
+- narrativa vira sistema de voz e decisão
 
-## Principios operacionais
+## Princípios operacionais
 
 - construir antes de ornamentar
 - preferir estrutura a improviso repetido
-- usar IA para ampliar criterio, nao para terceirizar responsabilidade
+- usar IA para ampliar critério, não para terceirizar responsabilidade
 - documentar o suficiente para manter continuidade
-- revisar exposicao publica antes de publicar contexto sensivel
-- tratar validacao como parte do trabalho, nao como pos-processo
+- revisar exposição pública antes de publicar contexto sensível
+- tratar validação como parte do trabalho, não como pós-processo
+- observar onde a complexidade foi deslocada antes de declarar ganho operacional
 
-## Direcao estetica
+## Direção estética
 
 A linguagem visual parte de uma dualidade simples:
 
-- verde para tecnologia, continuidade, sinal e construcao
-- vermelho para corrupcao de sistema, alerta, ruido e custo
+- verde para tecnologia, continuidade, sinal e construção
+- vermelho para corrupção de sistema, alerta, ruído e custo
 
-O referencial cyberpunk entra como tensao e atmosfera, nao como excesso. A marca procura o ponto em que o sistema continua legivel mesmo quando a friccao aparece.
+O referencial cyberpunk entra como tensão e atmosfera, não como excesso. A marca procura o ponto em que o sistema continua legível mesmo quando a fricção aparece.
 
-## Limites publicos
+## Limites públicos
 
-Este repositorio apresenta um recorte publico da estrutura, da linguagem e do metodo. Quando um detalhe nao melhora a compreensao, a preferencia e falar por categoria de trabalho em vez de expor nomes, contextos ou operacoes sem necessidade.
+Este repositório apresenta um recorte público da estrutura, da linguagem e do método. Quando um detalhe não melhora a compreensão, a preferência é falar por categoria de trabalho em vez de expor nomes, contextos ou operações sem necessidade. Autoridade técnica aqui não depende de revelar tudo; depende de mostrar mecanismos reais com clareza suficiente para serem avaliados.
