@@ -1,6 +1,6 @@
-# mente meio maquina. mind half machine. разум полумашина.
+# mente meio maquina. mind half machine. Разум Средомашинный.
 
-> mente meio maquina. mind half machine. разум полумашина.
+> mente meio maquina. mind half machine. Разум Средомашинный.
 
 ![Signal](https://img.shields.io/badge/sinal-30C67C?style=for-the-badge&labelColor=0D1210)
 ![Noise](https://img.shields.io/badge/ruido-D85A63?style=for-the-badge&labelColor=0D1210)
